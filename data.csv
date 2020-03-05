@@ -1,0 +1,3 @@
+batchid, nodeid, activityid, context, inputchannel, numberofdocumentsinactivity, positionofdocumentinactivity, timestampofreceipt, documenttype, identificationnumber, faxnumber, imailid, sender,  receiver, subject, analyzecomplaint, analyzeoffer, originaltext, inputruntimeenvironment
+
+6, 1, 1, demowebapp, kafka-producer, 6, 1, 09:00:00 AM, json, reply, 1234, abc@gmail.com, customer, vkb, text, yes, yes, Sehr geehrte Damen und Herren,wie ich bereits telefonisch am <DATUM> mitgeteilt habe, sende ich jetzt die letzten 3 Lohnabrechnungen. In der letzten Lohnabrechnung vom <DATUM> steht die Unterbrechung der Lohnfortzahlung ab <DATUM>. Danke für ihre Bemühungen.Mit freundlichen, openshift"

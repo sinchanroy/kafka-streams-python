@@ -1,0 +1,23 @@
+[
+  {
+    "batchid": 6,
+    "nodeid": 1,
+    "activityid": 1,
+    "context": "demowebapp",
+    "inputchannel": "kafka-producer",
+    "numberofdocumentsinactivity": 6,
+    "positionofdocumentinactivity": 1,
+    "timestampofreceipt": "09:00:00 AM",
+    "documenttype": "json",
+    "identificationnumber": "reply",
+    "faxnumber": 1234,
+    "imailid": "abc@gmail.com",
+    "sender": "customer",
+    "receiver": "vkb",
+    "subject": "text",
+    "analyzecomplaint": "yes",
+    "analyzeoffer": "yes",
+    "originaltext": "Sehr geehrte Damen und Herren wie ich bereits telefonisch am <DATUM> mitgeteilt habe sende ich jetzt die letzten 3 Lohnabrechnungen. In der letzten Lohnabrechnung vom <DATUM> steht die Unterbrechung der Lohnfortzahlung ab <DATUM>. Danke für ihre Bemühungen.Mit freundlichen Grüßen",
+    "inputruntimeenvironment": "openshift"
+  }
+]
